@@ -1,0 +1,5 @@
+A - Lecturer of CSE
+B - Lecturer of EEE
+C - Lecturer of IPE
+D - Lecturer of BBA
+E - Lecturer of Arch
